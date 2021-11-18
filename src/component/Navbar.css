@@ -1,0 +1,12 @@
+.navbar {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    background-color: #ffff;
+    height: 50px;
+    border-radius: 5px;
+    width: 90%;
+}
+
+
+  
